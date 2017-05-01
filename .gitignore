@@ -1,3 +1,10 @@
+# directories
+/.idea/*
+/data/*
+/out/*
+/src/old/*
+/src/testing/*
+
 # Compiled source #
 ###################
 *.com

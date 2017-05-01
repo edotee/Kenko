@@ -6,7 +6,7 @@
 /.idea/*
 /data/*
 /out/*
-/testing/old/*
+/testing/*
 
 # Compiled source #
 ###################

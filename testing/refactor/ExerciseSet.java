@@ -2,7 +2,6 @@ package refactor;
 
 import exercise.ExerciseUnit;
 import javafx.beans.property.SimpleDoubleProperty;
-import javafx.beans.property.SimpleIntegerProperty;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlType;
@@ -61,6 +60,6 @@ public class ExerciseSet implements Serializable {
     //@XmlElement(name = "STEPPING")
     public double getStepping() { return this.stepping.get(); }
     public void setStepping(double stepping) { this.stepping.set(stepping); }
-    public SimpleDoubleProperty steppingProperty() { return this.stepping; };
+    public SimpleDoubleProperty steppingProperty() { return this.stepping; }
 
 }

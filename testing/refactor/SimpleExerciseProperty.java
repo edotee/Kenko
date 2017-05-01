@@ -6,7 +6,7 @@ import javafx.beans.property.SimpleDoubleProperty;
 import java.io.Serializable;
 
 /**
- * Created by edotee on 05.04.17.
+ * @author edotee
  */
 public class SimpleExerciseProperty implements Serializable{
 

@@ -1,4 +1,9 @@
-# directories
+# files #
+#########
+*.iml
+
+# directories #
+###############
 /.idea/*
 /data/*
 /out/*

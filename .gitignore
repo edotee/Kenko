@@ -2,6 +2,12 @@
 #########
 *.iml
 
+# directories #
+/.idea/*
+/data/*
+/out/*
+/testing/old/*
+
 # Compiled source #
 ###################
 *.com
